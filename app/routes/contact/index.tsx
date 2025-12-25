@@ -1,3 +1,12 @@
+import type { Route } from "./+types";
+
+export function meta({}: Route.MetaArgs) {
+  return [
+    { title: "The Webdeveloper Project | Contact" },
+    { name: "description", content: "Contact Me" },
+  ];
+}
+
 const ContactPage = () => {
   return (
     <>
