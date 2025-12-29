@@ -4,7 +4,7 @@ type PaginationProps = {
   onPageChange: (page: number) => void;
 };
 
-const Pagination = ({ totalPages, currentPage, onPageChange }) => {
+const Pagination:React.FC<PaginationProps> = ({ totalPages, currentPage, onPageChange }) => {
   if (totalPages <= 1) return null;
 
   return (
