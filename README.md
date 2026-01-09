@@ -2,7 +2,7 @@
 
 It is a React Router v7 Framework app that demonstrates modern React best practices.
 
-![App Screenshot](./public/screenshot.png)
+![App Screenshot](./public/screen.png)
 
 ## ✨ It includes:
 
