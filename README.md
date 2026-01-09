@@ -11,7 +11,7 @@ It is a React Router v7 Framework app that demonstrates modern React best practi
 - Fully responsive UI using Tailwind CSS.
 
 The projects and blog posts are managed via a Strapi backend. The backend code is available in a separate repo:
-[Backend for the project]([https://link-url](https://github.com/juhbence90/webdev-site-project-backend))
+[Backend for the project](https://github.com/juhbence90/webdev-site-project-backend)
 
 ## Tech Stack
 
